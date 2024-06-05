@@ -8,8 +8,6 @@
   Comments: Solutions to week 1 lab exercises
 |#
 
-(+ 1 (+ 2 3))
-
 ;; Week 1 First Lab
 ;; Ignored Exercises: 1., 2., 3., 4., 5.
 
